@@ -4,7 +4,267 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b24c6443-9d9c-4abf-824e-d09b9963ddd8" name="Changes" comment="add practicum report" />
+    <list default="true" id="b24c6443-9d9c-4abf-824e-d09b9963ddd8" name="Changes" comment="add practicum report">
+      <change afterPath="$PROJECT_DIR$/my-docs/.github/workflows/deploy-docs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/navbar/en.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/navbar/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/navbar/zh.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/images/cover1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/images/cover2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/images/cover3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/sidebar/en.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/sidebar/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/sidebar/zh.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/styles/config.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/styles/palette.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/theme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/demo/disable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/demo/encrypt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/demo/markdown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/demo/page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/apple/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/apple/2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/apple/3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/apple/4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/banana/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/banana/2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/banana/3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/banana/4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/cherry.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/dragonfruit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/strawberry.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/posts/tomato.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/slides.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/demo/disable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/demo/encrypt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/demo/markdown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/demo/page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/apple/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/apple/2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/apple/3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/apple/4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/banana/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/banana/2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/banana/3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/banana/4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/cherry.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/dragonfruit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/strawberry.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/posts/tomato.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/zh/slides.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/Demos/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/HCI/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/Projects/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/Publications/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/Recommender System/Using ChatGPT for recommendations_ A case study of multiple product domains.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/Recommender System/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/MSc_Parcticium_Report_Xianglin_ZHAO.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/404.html-4fa4c57b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/404.html-e20f9d1f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_AMS-Regular-0cdd387c.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_AMS-Regular-30da91e8.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_AMS-Regular-68534840.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Caligraphic-Bold-07d8e303.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Caligraphic-Bold-1ae6bd74.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Caligraphic-Bold-de7701e4.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Caligraphic-Regular-3398dd02.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Caligraphic-Regular-5d53e70a.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Caligraphic-Regular-ed0b7437.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Fraktur-Bold-74444efd.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Fraktur-Bold-9163df9c.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Fraktur-Bold-9be7ceb8.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Fraktur-Regular-1e6f9579.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Fraktur-Regular-51814d27.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Fraktur-Regular-5e28753b.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-Bold-0f60d1b8.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-Bold-138ac28d.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-Bold-c76c5d69.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-BoldItalic-70ee1f64.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-BoldItalic-99cd42a3.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-BoldItalic-a6f7ec0d.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-Italic-0d85ae7c.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-Italic-97479ca6.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-Italic-f1d6ef86.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-Regular-c2342cd8.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-Regular-c6368d87.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Main-Regular-d0332f52.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Math-BoldItalic-850c0af5.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Math-BoldItalic-dc47344d.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Math-BoldItalic-f9377ab0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Math-Italic-08ce98e5.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Math-Italic-7af58c5e.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Math-Italic-8a8d2445.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_SansSerif-Bold-1ece03f7.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_SansSerif-Bold-e99ae511.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_SansSerif-Bold-ece03cfd.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_SansSerif-Italic-00b26ac8.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_SansSerif-Italic-3931dd81.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_SansSerif-Italic-91ee6750.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_SansSerif-Regular-11e4dc8a.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_SansSerif-Regular-68e8c73e.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_SansSerif-Regular-f36ea897.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Script-Regular-036d4e95.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Script-Regular-1c67f068.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Script-Regular-d96cdf2b.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Size1-Regular-6b47c401.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Size1-Regular-95b6d2f1.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Size1-Regular-c943cc98.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Size2-Regular-2014c523.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Size2-Regular-a6b2099f.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Size2-Regular-d04c5421.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Size3-Regular-500e04d5.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Size3-Regular-6ab6b62e.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Size4-Regular-99f9c675.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Size4-Regular-a4af7d41.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Size4-Regular-c647367d.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Typewriter-Regular-71d517d6.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Typewriter-Regular-e14fed02.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/KaTeX_Typewriter-Regular-f01f3e87.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Using ChatGPT for recommendations_ A case study of multiple product domains.html-5388847d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Using ChatGPT for recommendations_ A case study of multiple product domains.html-74c44a2b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/VuePlayground-10a3b97c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/add-html-label-5df1b044.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app-78feef38.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/arc-a81e95ef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/array-9f3ba611.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/auto-ba5ecab5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/c4Diagram-f9e67060-313bd112.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/classDiagram-4456d403-8aeff39d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/classDiagram-v2-539b00ca-653aef88.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/edges-65da65dc-7557cb3d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/erDiagram-25977acd-a2141e26.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/errorDiagram-bb949655-c03de245.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/flowDiagram-42bb1e4d-862f3ad6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/flowDiagram-v2-4c9a7611-1440bd00.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/flowchart-35969cab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/flowchart-elk-definition-c9fc5e04-8473ddbd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/framework-18394eb7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ganttDiagram-41439120-842b7197.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/giscus-9b97f17f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gitGraphDiagram-30dcca6d-aac9117e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/hero-197a9d2d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/highlight.esm-a794bb63.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/apple-icon-152.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/apple-icon-152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/chrome-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/chrome-192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/chrome-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/chrome-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/chrome-mask-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/chrome-mask-192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/chrome-mask-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/chrome-mask-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/guide-maskable.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/guide-maskable.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/ms-icon-144.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/ms-icon-144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index-8764208e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index-f9d09cc9-e5fd7972.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-045334b7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-0aafd302.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-15baac54.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-17e33132.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-1e50ea4f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-304c357f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-3db354e7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-4ae12737.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-4aff530f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-5843ddb7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-78adca19.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-7b63e310.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-86c0bdfd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-87913a51.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-8afada32.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-910496b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-95945e37.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-9c730000.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-b06207ef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-b0f80351.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-d2ac9164.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-da57fad2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-ddc3a8f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-e20859a5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-f27036a0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-f2f480e8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-f7b5ab49.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-fdb43266.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-fea99793.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/index.html-ff6e7c02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/infoDiagram-1b335302-5e038670.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/init-77b53fdd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/intro.html-e4ce0379.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/intro.html-ed853844.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/isPlainObject-4ea4efab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/is_dark-f6b5fe59.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/journeyDiagram-ded66ec9-3d0ee636.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/layout-256ab4ae.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/league-gothic-38fcc721.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/league-gothic-5eef6df8.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/league-gothic-8802c66a.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/markdown.esm-d92a2fc9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/math.esm-70a288c8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mermaid.core-89ebc52f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mindmap-definition-c8a05b8a-ae794586.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/notes.esm-224f94d9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/path-53f90ab3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photoswipe.esm-6e6cbe40.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pieDiagram-905ac727-34155391.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/requirementDiagram-84e9ae78-df5cfc3c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/reveal.esm-e5069ce0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/search.esm-2c3fba7d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/selectAll-9bfdecdd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sequenceDiagram-2c95880e-75153460.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slides.html-37f41e07.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slides.html-bc84002a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-italic-05d3615f.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-italic-ad4b0799.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-italic-d13268af.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-regular-c1865d89.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-regular-d4eaa48b.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-regular-dce8869d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-semibold-a53e2723.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-semibold-b0abd273.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-semibold-ebb8918d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-semibolditalic-7225cacc.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-semibolditalic-dfe0b47a.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/source-sans-pro-semibolditalic-e8ec22b6.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stateDiagram-95825141-488673cd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stateDiagram-v2-1cc5d8ed-e6115f12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style-c16e8315.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles-0dd3ba1e-07e9cd62.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles-4fe3d1fc-696e2d13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles-d6bd7a5e-942d04bf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svgDraw-6a237a99-25777782.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/timeline-definition-24ebf147-1319efa6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vue-repl-e1c37b0a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/zoom.esm-b83b91d0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/chatgpt/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/recommender-systems/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/slides.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeline/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,23 +276,33 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2KH4as2wbOkXfndn4PYCGSS95jF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Files" />
@@ -48,6 +318,8 @@
       <updated>1673618241040</updated>
       <workItem from="1673618244884" duration="1188000" />
       <workItem from="1673835631015" duration="2000" />
+      <workItem from="1692793911314" duration="44000" />
+      <workItem from="1692794217733" duration="1014000" />
     </task>
     <task id="LOCAL-00001" summary="add practicum report">
       <created>1673618365273</created>
@@ -84,6 +356,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add practicum report" />
     <option name="LAST_COMMIT_MESSAGE" value="add practicum report" />
   </component>
