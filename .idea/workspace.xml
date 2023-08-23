@@ -5,50 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b24c6443-9d9c-4abf-824e-d09b9963ddd8" name="Changes" comment="add practicum report">
-      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/navbar/en.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/navbar/en.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/public/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/sidebar/en.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/sidebar/en.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/theme.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/demo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/demo/disable.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/demo/encrypt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/demo/markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/demo/page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/apple/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/apple/2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/apple/3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/apple/4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/banana/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/banana/2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/banana/3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/banana/4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/cherry.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/dragonfruit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/strawberry.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/posts/tomato.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/demo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/demo/disable.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/demo/encrypt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/demo/markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/demo/page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/apple/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/apple/2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/apple/3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/apple/4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/banana/1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/banana/2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/banana/3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/banana/4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/cherry.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/dragonfruit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/strawberry.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/posts/tomato.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/.github/workflows/deploy-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/navbar/en.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/navbar/en.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/navbar/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/navbar/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/navbar/zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/apple-icon-152.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/apple-icon-152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/chrome-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/chrome-192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/chrome-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/chrome-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/chrome-mask-192.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/chrome-mask-192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/chrome-mask-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/chrome-mask-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/guide-maskable.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/guide-maskable.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/icon/ms-icon-144.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/ms-icon-144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/images/cover1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/assets/images/cover1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/images/cover2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/assets/images/cover2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/images/cover3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/assets/images/cover3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/public/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/sidebar/en.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/sidebar/en.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/sidebar/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/sidebar/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/sidebar/zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/sidebar/zh.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/styles/config.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/styles/config.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/styles/palette.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/styles/palette.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/slides.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/slides.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/zh/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/zh/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/zh/slides.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/zh/slides.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,12 +87,13 @@
       <recent name="$PROJECT_DIR$/my-docs/src/.vuepress/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Files" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="docs:clean-dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/my-docs/package.json" />
+      <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
         <script value="docs:clean-dev" />
@@ -156,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1673618837476</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add practicum report">
+      <option name="closed" value="true" />
+      <created>1692800266903</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692800266903</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
